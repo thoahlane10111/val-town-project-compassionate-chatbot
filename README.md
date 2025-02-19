@@ -57,4 +57,4 @@ We welcome contributions to improve the chatbot. Feel free to submit pull reques
 This project is licensed under the MIT License.
 
 ## Contact
-For inquiries or suggestions, contact [Your Name] at [your.email@example.com].
+For inquiries or suggestions, contact Mabilikoe Thoahlane at thoahlane10111@mail.com
